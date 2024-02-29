@@ -6,8 +6,6 @@ Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of S
 * Name    : Iffo Elsande Pratama Putra
 * Program : IBM Academy Advance AI
 
-
-
 # Overview
 
 ## Text Sentiment Analysis using Caikit and Hugging Face
